@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#csv files
+resources/201908-citibike-tripdata.csv
+resources/201908-citibike-tripdata.csv.zip
+
 # C extensions
 *.so
 
